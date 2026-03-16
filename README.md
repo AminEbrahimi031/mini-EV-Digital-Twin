@@ -88,7 +88,93 @@ Mini EV Twin
 
 ## Project Visualization
 
+The simulation generates multiple engineering dashboards and scenario analysis plots.
+
+---
+
+### Vehicle Behavior Simulation
+
+Speed, battery SOC, power consumption and position evolution during a simulation run.
+
+![Vehicle Behavior](results/figure1_vehicle_behavior.png)
+
+---
+
+### Battery Health Comparison
+
+Comparison between **Healthy** and **Aged** battery performance.
+
+![Battery Comparison](results/figure2_battery_comparison.png)
+
+---
+
+### Scenario Sweep – Healthy Battery
+
+Simulation results across different driver styles, road slopes and traffic conditions.
+
+![Healthy Scenarios](results/figure3_healthy_scenarios.png)
+
+---
+
+### Scenario Sweep – Aged Battery
+
+Simulation results for an aged battery under the same scenario combinations.
+
+![Aged Scenarios](results/figure4_aged_scenarios.png)
+
+---
+
+### Driver Style vs Maximum Speed
+
+How driving behavior affects vehicle performance.
+
+![Driver vs Speed](results/figure5_driver_vs_max_speed.png)
+
+---
+
+### Driver Style vs Battery Consumption
+
+Impact of driving behavior on **battery SOC drop**.
+
+![Driver vs SOC](results/figure6_driver_vs_soc_drop.png)
+
+---
+
+### Road Type Impact on Vehicle Speed
+
+Effect of **flat vs uphill roads** on final vehicle speed.
+
+![Road Impact](results/figure7_road_impact_final_speed.png)
+
+---
+
+### Traffic Impact on Battery Consumption
+
+Impact of traffic resistance on battery usage.
+
+![Traffic Impact](results/figure8_traffic_impact_soc_drop.png)
+
+---
+
+### Battery Health Impact on Maximum Speed
+
+Healthy vs aged battery influence on vehicle performance.
+
+![Battery Max Speed](results/figure9_battery_max_speed_bar.png)
+
+---
+
+### Top 10 Worst Scenarios by Battery Consumption
+
+Ranking of the scenarios with the highest SOC drop.
+
+![Top SOC Drop](results/figure10_top10_soc_drop.png)
+
+---
+
 ### Summary Dashboard
+
+Overview of all simulation results.
 
 ![Summary Dashboard](results/EV_summary_dashboard.png)
 
@@ -96,25 +182,31 @@ Mini EV Twin
 
 ### KPI Dashboard
 
+Engineering KPI summary of the simulation system.
+
 ![KPI Dashboard](results/EV_kpi_dashboard.png)
 
 ---
 
 ### Scenario KPI Cards
 
-![Scenario KPI Cards](results/EV_scenario_kpi_cards.png)
+Detailed scenario-level metrics.
 
----
+![Scenario KPI Cards](results/EV_scenario_kpi_cards.png)
 
 ---
 
 ## Simulation Animation
 
-Below is an example frame from the animated digital twin simulation.
+Example frames from the animated EV digital twin simulation.
 
-![EV Animation Preview](assets/animation_preview.png)
+![Animation Preview 1](assets/animation_preview1.png)
 
----
+![Animation Preview 2](assets/animation_preview2.png)
+
+![Animation Preview 3](assets/animation_preview3.png)
+
+![Animation Preview 4](assets/animation_preview4.png)
 
 ## Author
 
