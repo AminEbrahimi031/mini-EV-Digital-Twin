@@ -205,7 +205,7 @@ Detailed scenario-level metrics.
 
 Click the preview image below to watch the animated EV digital twin simulation.
 
-[![EV Simulation Demo](assets/animation_preview.png)](demo/ev_simulation_demo.mp4)
+[![EV Simulation Demo](assets/animation_preview.png)](https://github.com/AminEbrahimi031/mini-EV-Digital-Twin/raw/main/demo/ev_simulation_demo.mp4)
 ---
 
 ## Author
