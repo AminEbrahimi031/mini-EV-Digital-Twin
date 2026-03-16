@@ -201,19 +201,11 @@ Detailed scenario-level metrics.
 ![Scenario KPI Cards](results/EV_scenario_kpi_cards.png)
 
 ---
-
 ## Simulation Animation
 
-Example frames from the animated EV digital twin simulation.
+Click the preview image below to watch the animated EV digital twin simulation.
 
-![Animation Preview 1](assets/animation_preview1.png)
-
-![Animation Preview 2](assets/animation_preview2.png)
-
-![Animation Preview 3](assets/animation_preview3.png)
-
-![Animation Preview 4](assets/animation_preview4.png)
-
+[![EV Simulation Demo](assets/animation_preview.png)](demo/ev_simulation_demo.mp4)
 ---
 
 ## Author
