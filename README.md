@@ -9,6 +9,7 @@ Python-Based Digital Twin for Electric Vehicle Simulation
 ![Pandas](https://img.shields.io/badge/Pandas-Data%20Analysis-purple)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-Visualization-green)
 ![Status](https://img.shields.io/badge/Project-Active-brightgreen)
+
 ---
 
 ## Project Overview
@@ -125,7 +126,9 @@ The architecture of the system is illustrated below.
              │
              ▼
         Visualization
+```
 
+---
 
 ## Simulation Workflow
 
@@ -162,7 +165,9 @@ Visualization & Dashboards
    │
    ▼
 Animated EV Simulation
+```
 
+---
 
 ## Project Highlights
 
@@ -182,6 +187,7 @@ This project demonstrates several key engineering concepts related to electric v
 
 This project demonstrates how simulation, data analysis and visualization can be combined to build a simplified **digital twin framework for electric vehicles**.
 
+---
 
 ## Project Visualization
 
@@ -292,13 +298,14 @@ Detailed scenario-level metrics.
 ![Scenario KPI Cards](results/EV_scenario_kpi_cards.png)
 
 ---
+
 ## Engineering Insights
 
 The simulation results provide several engineering insights into electric vehicle behavior under different driving conditions.
 
 ### Driver Behavior Impact
 
-Aggressive driving significantly increases battery consumption and leads to a faster drop in State of Charge (SOC).
+Aggressive driving significantly increases battery consumption and leads to a faster drop in State of Charge (SOC).  
 Eco driving mode provides the most energy-efficient operation.
 
 ### Battery Health Impact
@@ -323,7 +330,6 @@ The scenario sweep simulation demonstrates how combinations of driver behavior, 
 
 These insights illustrate how simulation models can be used to evaluate vehicle efficiency and support engineering decision-making in electric mobility systems.
 
-
 ---
 
 ## Simulation Animation
@@ -331,11 +337,12 @@ These insights illustrate how simulation models can be used to evaluate vehicle 
 Click the preview image below to watch the animated EV digital twin simulation.
 
 [![EV Simulation Demo](assets/animation_preview.png)](https://github.com/AminEbrahimi031/mini-EV-Digital-Twin/raw/main/demo/ev_simulation_demo.mp4)
+
 ---
 
 ## Future Work
 
-The current project represents a simplified digital twin concept for electric vehicles.
+The current project represents a simplified digital twin concept for electric vehicles.  
 Several extensions could further improve the realism and capabilities of the simulation.
 
 Possible future improvements include:
@@ -352,14 +359,15 @@ Possible future improvements include:
 These extensions could transform the Mini EV Twin into a more advanced research platform for electric mobility simulation.
 
 ---
+
 ## Author
 
 Amin Ebrahimi
 
-Background:
+Background:  
 Electrical Engineering (Control Systems)
 
-Current field:
+Current field:  
 Digital Technologies
 
 Areas of interest:
