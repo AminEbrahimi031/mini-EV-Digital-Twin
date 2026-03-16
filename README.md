@@ -2,7 +2,9 @@
 
 Python-Based Digital Twin for Electric Vehicle Simulation
 
-![Mini EV Twin Hero](assets/project_hero.png)
+<p align="center">
+  <img src="assets/project_hero.png" width="900" alt="Mini EV Twin Hero">
+</p>
 
 ![Python](https://img.shields.io/badge/Python-3.x-blue)
 ![NumPy](https://img.shields.io/badge/NumPy-Scientific%20Computing-orange)
